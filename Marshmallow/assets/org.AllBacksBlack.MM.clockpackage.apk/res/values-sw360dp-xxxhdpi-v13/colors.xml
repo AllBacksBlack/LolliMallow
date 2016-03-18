@@ -16,16 +16,12 @@
     <color name="alarm_repeat_toggle_btn_select_bg_color">#26a5a5a5</color>
     <color name="list_divider_color">#ffa5a5a5</color>
     <color name="alarm_bg">#ff000000</color>
-    <color name="alarm_list_item_time_color">#ffe5e5e5</color>
-    <color name="alarm_list_cardview_background">#ff000000</color>
     <color name="alarm_no_item_text_color">#99cbcbcb</color>
     <color name="timer_text_set_textcolor">#ffe5e5e5</color>
     <color name="stopwatch_button_start_textcolor">#ffe5e5e5</color>
     <color name="timer_divider">#ffa5a5a5</color>
     <color name="timer_button_textcolor">#cccbcbcb</color>
     <color name="timer_picker_colon_color">#ffdadada</color>
-    <color name="alarm_list_icon_on">#ffcbcbcb</color>
-    <color name="alarm_list_text_on">#ffcbcbcb</color>
     <color name="stopwatch_lap_item_textcolor">#ffe5e5e5</color>
     <color name="stopwatch_lap_item_diff_textcolor">#ffcbcbcb</color>
     <color name="stopwatch_text_set_textcolor">#ffe5e5e5</color>
@@ -46,8 +42,6 @@
     <color name="actionbar_bg">#ff000000</color>
     <color name="alarm_actionbar_text">#ffe5e5e5</color>
     <color name="alarm_actionbar_back_icon_tint_color">#ffcbcbcb</color>
-    <color name="alarm_list_repeat_background_color">#ff000000</color>
-    <color name="alarm_list_repeat_text_enable_color">#ffe5e5e5</color>
     <color name="worldclock_location_icon_tintcolor">#ffe5e5e5</color>
     <color name="worldclock_dropdown_city_textcolor">#ffe5e5e5</color>
     <color name="worldclock_dropdown_gmt_textcolor">#ffa5a5a5</color>
@@ -59,4 +53,20 @@
     <color name="city_dst_tint_color">#ffe5e5e5</color>
     <color name="worldclock_subheader_background_color">#ff000000</color>
     <color name="worldclock_subheader_text_color">#ffc8c8c8</color>
+    <color name="alarm_list_background_dimming_color">#ff000000</color>
+    <color name="alarm_list_cardview_background">#ff000000</color>
+    <color name="alarm_list_cardview_item_background">#ff7e7e7e</color>
+    <color name="alarm_list_days">#ffa5a5a5</color>
+    <color name="alarm_list_days_highlighted">#ffc5c5c5</color>
+    <color name="alarm_list_days_non_selected">#ffa5a5a5</color>
+    <color name="alarm_list_dim_background">#ff000000</color>
+    <color name="alarm_list_icon_off">#ffa5a5a5</color>
+    <color name="alarm_list_icon_on">#ffe5e5e5</color>
+    <color name="alarm_list_item_time_color">#ffc5c5c5</color>
+    <color name="alarm_list_repeat_background_color">#00000000</color>
+    <color name="alarm_list_repeat_text_enable_color">#ffc5c5c5</color>
+    <color name="alarm_list_soundandalarmname_item_text_dim">#ffa5a5a5</color>
+    <color name="alarm_list_text_off">#ffa5a5a5</color>
+    <color name="alarm_list_text_on">#ffc5c5c5</color>
+    <color name="alarm_list_time_active">#ffe5e5e5</color>
 </resources>
